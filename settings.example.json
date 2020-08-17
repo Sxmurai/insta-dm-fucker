@@ -1,0 +1,9 @@
+{
+  "message": "EA Sports",
+  "auth": {
+    "username": "username",
+    "password": "password"
+  },
+  "target": "username",
+  "count": 1
+}
