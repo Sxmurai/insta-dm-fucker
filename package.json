@@ -6,8 +6,6 @@
   "author": "Sxmurai <gavrw0607@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "instagram-private-api": "^1.41.0",
-    "node-fetch": "^2.6.0",
-    "ws": "^7.3.1"
+    "instagram-private-api": "^1.41.0"
   }
 }
