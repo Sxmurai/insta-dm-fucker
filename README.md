@@ -11,7 +11,8 @@ Fuck someones instagram DMs up by spamming the hell out of them, until the DM ch
 3. Rename `settings.example.json` to `settings.json`
 4. Fill in the payload details in `settings.json`
 5. Run `node -v` to make sure nodejs is installed
-6. Run this project with `node .`.
+6. Install dependencies. (`yarn add`) (you may have to install yarn - `npm i -g yarn`)
+7. Run this project with `node .`.
 
 ---
 
