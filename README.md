@@ -1,6 +1,6 @@
 # insta-dm-fucker
 
-Spam someones instagram DMs up. You may have to send them a DM beforehand.
+Spam someones instagram DMs. You may have to send them a DM beforehand.
 
 ---
 
