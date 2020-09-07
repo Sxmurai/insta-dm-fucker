@@ -1,6 +1,6 @@
 # insta-dm-fucker
 
-Fuck someones instagram DMs up by spamming the hell out of them, until the DM chat crashes. Or just annoy the shit out of them.
+Spam someones instagram DMs up. You may have to send them a DM beforehand.
 
 ---
 
@@ -16,6 +16,6 @@ Fuck someones instagram DMs up by spamming the hell out of them, until the DM ch
 
 ---
 
-I am not responsible for any maclious actions you use with this nodejs application. Everything you do is **on you**.
+I am not responsible for any maclious actions you use with this node.js application. Everything you do is **on you**.
 
 > [aesthetical](https://github.com/Sxmurai) : 2020
