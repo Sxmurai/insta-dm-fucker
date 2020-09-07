@@ -10,9 +10,11 @@ const { auth, target, message, count } = require("./settings.json");
     `[LOGS] | Logged in as ${account.username} (${account.pk}), time to send ${count} messages!`
   );
 
-  const user = (await client.direct.rankedRecipients()).ranked_recipients.find(
-    (v) => v.thread.thread_title === target
-  );
+  const user = (
+    await client.direct.rankedRecipients("reshare")
+  ).ranked_recipients
+    .filter((v) => v.thread)
+    .find((v) => v.thread.thread_title === target);
 
   if (!user)
     return console.log(`[LOGS] | It seems you provided an invalid username.`);
